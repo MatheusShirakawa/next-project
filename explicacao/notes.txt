@@ -1,0 +1,23 @@
+Explicação React Hooks
+
+    UseState
+        https://www.youtube.com/watch?v=pTfBR_MF-LI
+        nada mais é que 'falar pro react monitorar uma variavel' para ela ser mostrada na tela
+        https://blog.cod3r.com.br/utilizando-hooks-usestate/
+    UseEffect
+        https://www.youtube.com/watch?v=DgAEtRbK80g
+        https://blog.cod3r.com.br/useeffect-react-efeitos-colaterais/
+
+
+React trabalha com a estrutura de componetização, são eles dividos em
+    - Classe
+        - Mais código
+        - Algumas coisas vão funcionar de maneira diferente
+        - Olhar o exemplo no arquivo ContadorClasse.jsx
+    - Função
+        - Menos código
+        - Mais enxuto
+        - Direto ao ponto
+        - Olhar o exemplo no arquivo ContadorFuncao.jsx
+
+
